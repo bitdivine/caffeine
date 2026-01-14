@@ -1,0 +1,3 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays the word \"caffeine\" centered on the screen with no additional content or styling."
+}
